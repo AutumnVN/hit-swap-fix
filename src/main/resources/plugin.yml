@@ -1,0 +1,5 @@
+name: hit-swap-nerf
+version: '1.21.4'
+main: autumnvn.hitSwapNerf.HitSwapNerf
+api-version: '1.21.4'
+authors: [ AutumnVN ]
