@@ -26,6 +26,6 @@ jobs:
 
       - name: Release
         run: |
-          gh release create release build/libs/hit-swap-nerf-1.21.4.jar
+          gh release upload release --clobber build/libs/hit-swap-nerf-1.21.4.jar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
