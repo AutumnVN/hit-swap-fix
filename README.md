@@ -1,6 +1,6 @@
-# hit-swap-nerf
+# hit-swap-fix
 
-An attempt to ~~fix~~ nerf hit swapping cuz i cant find one on internet
+An attempt to fix hit swapping cuz i cant find one on internet
 
 Requires [PaperMC](https://papermc.io/downloads/paper) and Minecraft 1.21.4+
 
@@ -14,10 +14,4 @@ By swapping item and attacking at the same time, it uses base damage & cooldown 
 
 Players can abuse this to break shield with sword, fire/knockback with axe, breach with sword (super OP btw), preserve durability of original item,...
 
-This plugin doesn't fix the core issue (i suck), but it properly resets attack cooldown when swapping item, so player deals way less damage, thus making the exploit worthless (hopefully)
-
-<br>
-<br>
-<br>
-
-trying to fix a 12 year old bug as my first plugin hahaha im so cute
+This plugin resets attack cooldown and refreshes player attributes to new item when player swaps item
