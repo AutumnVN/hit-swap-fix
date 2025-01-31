@@ -2,7 +2,7 @@
 
 An attempt to fix hit swapping cuz i cant find one on internet
 
-Requires [PaperMC](https://papermc.io/downloads/paper) and Minecraft 1.21.4+
+Requires [PaperMC](https://papermc.io/downloads/paper) and Minecraft 1.21.1
 
 ## What tf is hit swap?
 

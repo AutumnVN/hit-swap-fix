@@ -1,5 +1,5 @@
 name: hit-swap-fix
-version: '1.21.4'
+version: '1.21.1'
 main: autumnvn.hitSwapFix.HitSwapFix
-api-version: '1.21.4'
+api-version: '1.21.1'
 authors: [ AutumnVN ]

@@ -3,7 +3,7 @@ name: Build
 on:
     push:
       branches:
-        - main
+        - 1.21.1
 
 permissions:
   contents: write
@@ -26,6 +26,6 @@ jobs:
 
       - name: Release
         run: |
-          gh release upload release --clobber build/libs/hit-swap-fix-1.21.4.jar
+          gh release upload release --clobber build/libs/hit-swap-fix-1.21.1.jar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
