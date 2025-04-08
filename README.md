@@ -1,3 +1,5 @@
+# look like paper already patched it so this is now useless
+
 # hit-swap-fix
 
 An attempt to fix hit swapping cuz i cant find one on internet
